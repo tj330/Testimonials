@@ -82,7 +82,7 @@ img {
     background-color: rgb(151, 46, 221);
     height: 48%;
     width: 65%;
-    background-image: url('/bg-pattern-quotation.svg');
+    background-image: url('./bg-pattern-quotation.svg');
     background-repeat: no-repeat;
     background-position: 380px 0;
 }
@@ -191,7 +191,7 @@ img {
         width:150px;
     }
     .test-1 {
-        height: 400px;
+        height: 450px;
         width: 380px;
         margin-left: 10px;
         margin-bottom: 25px;
@@ -216,7 +216,7 @@ img {
         }
     }
     .test-4 {
-        height: 360px;
+        height: 400px;
         width: 380px;
         margin-left: 10px;
         margin-bottom: 25px;
@@ -232,7 +232,7 @@ img {
     .test-5 {
         padding-top: 10px;
         margin-left: 5px;
-        height: 440px;
+        height: 460px;
         width: 380px;
         .info{
             width: 150px;
