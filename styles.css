@@ -238,4 +238,13 @@ img {
             width: 150px;
         }
     }
+    .test-2 .name{
+        margin-left: 5px;
+    }
+    .test-3 .name{
+        margin-left: 5px;
+    }
+    .test-5 .name{
+        margin-left: 5px;
+    }
 }
