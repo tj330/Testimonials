@@ -239,12 +239,12 @@ img {
         }
     }
     .test-2 .name{
-        margin-left: 1px;
+        margin-left: none;
     }
     .test-3 .name{
-        margin-left: 1px;
+        margin-left: none;
     }
     .test-5 .name{
-        margin-left: 1px;
+        margin-left: none;
     }
 }
