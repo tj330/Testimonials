@@ -168,7 +168,7 @@ img {
     height: 93%;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 800px) {
     .main{
         height: auto;
         width: auto;
