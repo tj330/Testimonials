@@ -200,7 +200,7 @@ img {
     .test-2 {
         height: 250px;
         width: 380px;
-        margin-left: none;
+        margin-left: 10px;
         margin-bottom: 2px;
         .info{
             width: 170px;
